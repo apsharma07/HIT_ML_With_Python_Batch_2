@@ -1,6 +1,8 @@
+# HIT_ML_With_Python_Batch_2 
+
 <hr>
 
-* **GitHub Link:** https://github.com/toarnabteacher/HIT_ML_With_Python_Batch_1 or https://tinyurl.com/4kauzdcn
+* **GitHub Link:** https://github.com/toarnabteacher/HIT_ML_With_Python_Batch_2 or https://tinyurl.com/2f97fnjf
 * **MS-Teams Meeting Link:** https://tinyurl.com/2s3yxjnr
 * **NotePad.PW Link:** https://notepad.pw/bpLgGkjRl9MeljJ19ct2
 
