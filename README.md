@@ -8,6 +8,24 @@
 
 <hr>
 
+## Competitive Coding Resources
+
+* **CodeChef Problem List:** https://www.codechef.com/YTPP001/
+* **Find Second Largest:** https://www.codechef.com/problems/SECLAR
+* **Closest Divisor:** https://www.codechef.com/YTPP001/problems/CLODIV (Only Run)
+* **Odd Even Multiple:** https://www.codechef.com/YTPP001/problems/EOMUL (Only Run)
+* **Not Last:** https://www.codechef.com/YTPP001/problems/LSTSEV (Only Run)
+* **Raju and His Trip:** https://www.codechef.com/YTPP001/problems/VALTRI (Only Run)
+* **Is Palindrome:** https://www.codechef.com/YTPP001/problems/NUMPLIN (Only Run)
+* **Full Barrier Alchemist:** https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/PIPSQUIK
+* **Cats and Dogs:** https://www.codechef.com/PRACTICE/problems/CATSDOGS
+* **Is Palindrome:** https://www.codechef.com/YTPP001/problems/NUMPLIN
+* **HCF and LCM:** https://www.codechef.com/YTPP001/problems/FDGHLM
+* **CodeChef Various Problem Solving (in Java) GitHub:** https://github.com/charles-wangkai/codechef
+* **Other Codechef Practice Problems:** https://www.codechef.com/YTPP001?order=asc&page=1&sortBy=name
+
+<hr>
+
 **Python Download Link:** <br>
 **Anaconda Download Link:** <br>
 * https://www.anaconda.com/products/distribution
