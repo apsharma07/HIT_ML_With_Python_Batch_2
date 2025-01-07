@@ -10,6 +10,7 @@
 
 ## Competitive Coding Resources
 
+* **All Competitive Exam Notifications Available at:** https://clist.by/
 * **CodeChef Problem List:** https://www.codechef.com/YTPP001/
 * **Find Second Largest:** https://www.codechef.com/problems/SECLAR
 * **Closest Divisor:** https://www.codechef.com/YTPP001/problems/CLODIV (Only Run)
